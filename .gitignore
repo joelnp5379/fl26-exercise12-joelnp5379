@@ -1,8 +1,2 @@
 build/
-*_autogen/
-CMakeCache.txt
-CMakeFiles/
-toggleapp
-toggletest
-*.o
-*.exe
+
